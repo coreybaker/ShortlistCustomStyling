@@ -90,7 +90,7 @@ If you added the ***custom.css*** file than you will need to open it up in a tex
 
 Enjoy.
 
-Feel free to email any comments to <a href="mailto:cbaker@esri.com">Comments</a>
+Feel free to email any questions or comments to <a href="mailto:cbaker@esri.com">Me</a>.
 
 
 
