@@ -1,0 +1,67 @@
+/**** 
+
+Override "some" styling in the Shortlist - 2014 Release Version
+Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
+
+****/
+
+/*** Header Customization ***/
+
+#header {
+
+}
+
+#title, #subtitle {
+
+}
+
+#divStrip {
+
+}
+
+
+/*** Selection Tabs Customization ***/
+
+
+.tab {
+
+}
+
+.tab:hover {
+
+}
+
+.tab-selected {
+
+}
+
+/*** Popup Customization ***/
+
+
+/* Changes the color, background-color, font, or whatever in the pop-up title */
+.esriPopup .titlePane {
+
+}
+
+/* Changes the color, background-color, font, or whatever in the actual body of the popup */
+
+.esriPopup .contentPane, .esriPopup .actionsPane {
+
+}
+
+/* Changes the color of the popup link titled "Details" */
+
+.infoWindowLink {
+
+}
+
+.infoWindowLink:hover {
+
+}
+
+
+/** Left Pane Customizaiton **/
+
+#paneLeft {
+	
+}
