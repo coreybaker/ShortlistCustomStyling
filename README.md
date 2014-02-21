@@ -8,7 +8,7 @@ This file will give you the ability to customize the front-end of the Esri Story
 
 In order to use this template file you must have downloaded the Esri Story Map Shortlist Template, and have access to an ArcGIS Online Subscription.  Additionally, it is also required that your Shortlist Template is downloaded and functioning on your web server. If you don’t have these affairs in order than please follow the links below to get you up-and-running and then return back to repo.  
 
-### Not familiar with CSS….but I want to learn!
+####Not familiar with CSS….but I want to learn!
 
 Not familiar with how to use CSS?  Are you new to the web development world in general?  Well, that’s not a problem, as long as you’re willing to learn just a little to make it happen.  
 
