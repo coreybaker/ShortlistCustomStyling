@@ -14,13 +14,9 @@ Not familiar with how to use CSS?  Are you new to the web development world in g
 
 ####Free Coding Resources
 
-[id] : http://www.codecademy.com/tracks/web
-[id2] : http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906
-[id3] : https://developer.mozilla.org/en-US/learn/css
-
-+ [Code Academy][id]
-+ [TutsPlus][id2]
-+ [Mozilla Developer Network][id3]
++ [Code Academy](http://www.codecademy.com/tracks/web)
++ [TutsPlus]( http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
++ [Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/css)
 
 ####Getting an ArcGIS Online Subscription 
 
@@ -56,8 +52,11 @@ The file that you’re adding is going to be a simple custom CSS file.  For thos
 
 You can download the file from here, and then add it to the folder ***css*** folder of the Esri Story Maps Template that you downloaded previously.
 
-Add the fille to the ***css*** folder
+Add the file to the ***css*** folder:
+
 ![add the custom.css](https://dl.dropboxusercontent.com/u/65537348/file_css.png)
+
+Paste or copy file into that folder:
 
 ![place custom.css in file]( https://dl.dropboxusercontent.com/u/65537348/file_customecss.png)
 
