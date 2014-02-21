@@ -38,7 +38,7 @@ http://storymaps.arcgis.com/en/app-list/shortlist/tutorial/
 
 The file that you’re adding is going to be a simple custom CSS file.  For those of you that are familiar with that sort of thing this is going to be really straightforward.  You just insert the reference tag into the head and you are ready to start customizing.  For those of you that are not familiar I recommend using the coding resources that I have provided above.  
 
-###What each files does
+###Functions of the Files
 
 ####custom.css 
 + This file has selectors in place, but there isn’t any CSS applied to them.  This is a blank template that you can start adding your style to.
@@ -50,7 +50,7 @@ The file that you’re adding is going to be a simple custom CSS file.  For thos
 
 ###Adding the File
 
-You can download the file from here, and then add it to the folder ***css*** folder of the Esri Story Maps Template that you downloaded previously.
+You can download the file from this repo, and then add it to the folder ***css*** folder of the Esri Story Maps Template that you downloaded previously.  If you know how to pull the file using Git then do that; it's all up to you.
 
 Add the file to the ***css*** folder:
 
@@ -64,7 +64,9 @@ If you want to use the ***customMade.css*** file instead follow the same steps a
 
 ####Where to add the file
 
-You want to add the file directly below the style.css reference in the ***index.html*** file
+You want to add the file directly below the ***style.css*** reference in the ***index.html*** file
+
+![where to place file in html](https://dl.dropboxusercontent.com/u/65537348/CodeSnippet.png)
 
 ####custom.css
 
@@ -79,8 +81,14 @@ This file loads in the template selectors that you can customize at will:
 This file loads in the same template selectors as the ***custom.css***, but already has styling applied to them for reference.
 
 ````html
-<link rel=”stylesheet” type=”text/css” href=”css/customeMade.css”>
+<link rel=”stylesheet” type=”text/css” href=”css/customMade.css”>
 ````
+
+###After Adding File
+
+If you added the ***custom.css*** file than you will need to open it up in a text edtior (of your choosing) and then start styling away.  Otherwise, you added the ***customMade.css*** file and when you open your application in your browser you should see the changes.  If the application is already open just go ahead and refresh.
+
+Enjoy.
 
 
 
