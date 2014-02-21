@@ -1,0 +1,82 @@
+/**** 
+
+Override "some" styling in the Shortlist - 2014 Release Version
+Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
+
+****/
+
+
+
+
+/*** Header Customization 
+	 
+	 You can use images or just straight colors.  Do what you will.
+	
+***/
+
+
+#header {
+background:#42BCBF; /* Leave this as a fall back in case you image doesn't load*/
+background: url("http://storymaps.arcgis.com/img/banner.jpg?1389895343");
+background-repeat: no-repeat; /*Sometimes you will need to take this off if you're image isn't big enough*/
+/*I put a Responsive Images Solution in below to mitigate*/
+}
+
+#title, #subtitle {
+color:#251D21;
+}
+
+#subtitle {
+	display:none; /*Makes the subtitle disappear*/
+}
+
+#divStrip {
+background:#969696;
+}
+
+
+/*** Selection Tabs Customization ***/
+
+
+.tab {
+background:#75706A;
+}
+
+.tab:hover {
+background:#D36C44;
+}
+
+.tab-selected {
+background:#D36C44;
+}
+
+/*** Popup Customization ***/
+
+
+/* Changes the color, background-color, font, or whatever in the pop-up title */
+.esriPopup .titlePane {
+
+}
+
+/* Changes the color, background-color, font, or whatever in the actual body of the popup */
+
+.esriPopup .contentPane, .esriPopup .actionsPane {
+
+}
+
+/* Changes the color of the popup link titled "Details" */
+
+.infoWindowLink {
+
+}
+
+.infoWindowLink:hover {
+
+}
+
+
+/** Left Pane Customizaiton **/
+
+#paneLeft {
+	
+}
