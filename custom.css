@@ -5,7 +5,7 @@ Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
 
 ****/
 
-/*** Header Customization ***/
+				/*** Header Customization ***/
 
 #header {
 
@@ -15,12 +15,16 @@ Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
 
 }
 
+#subtitle {
+
+}
+
 #divStrip {
 
 }
 
 
-/*** Selection Tabs Customization ***/
+				/*** Selection Tabs Customization ***/
 
 
 .tab {
@@ -35,7 +39,7 @@ Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
 
 }
 
-/*** Popup Customization ***/
+				/*** Popup Customization ***/
 
 
 /* Changes the color, background-color, font, or whatever in the pop-up title */
@@ -60,7 +64,7 @@ Github Repo: https://github.com/coreybaker/ShortlistCustomStyling
 }
 
 
-/** Left Pane Customizaiton **/
+				/** Left Pane Customizaiton **/
 
 #paneLeft {
 	
