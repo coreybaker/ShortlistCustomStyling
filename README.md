@@ -1,7 +1,3 @@
-ShortlistCustomCss
-==================
-
-
 ##Custom Esri Story Map Shortlist CSS
 
 ###Use
@@ -18,9 +14,13 @@ Not familiar with how to use CSS?  Are you new to the web development world in g
 
 ####Free Coding Resources
 
-+ {Code Academy} (http://www.codecademy.com/tracks/web)
-+ {TutsPlus} (http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
-+ {Mozilla Developer Network} (https://developer.mozilla.org/en-US/learn/css)
+[id] : http://www.codecademy.com/tracks/web
+[id2] : http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906
+[id3] : https://developer.mozilla.org/en-US/learn/css
+
++ [Code Academy][id]
++ [TutsPlus][id2]
++ [Mozilla Developer Network][id3]
 
 ####Getting an ArcGIS Online Subscription 
 
@@ -56,7 +56,12 @@ The file that you’re adding is going to be a simple custom CSS file.  For thos
 
 You can download the file from here, and then add it to the folder ***css*** folder of the Esri Story Maps Template that you downloaded previously.
 
+Add the fille to the ***css*** folder
+![add the custom.css](https://dl.dropboxusercontent.com/u/65537348/file_css.png)
 
+![place custom.css in file]( https://dl.dropboxusercontent.com/u/65537348/file_customecss.png)
+
+If you want to use the ***customMade.css*** file instead follow the same steps as above just use the ***customMade.css*** file.
 
 ####Where to add the file
 
@@ -77,8 +82,6 @@ This file loads in the same template selectors as the ***custom.css***, but alre
 ````html
 <link rel=”stylesheet” type=”text/css” href=”css/customeMade.css”>
 ````
-
-
 
 
 
