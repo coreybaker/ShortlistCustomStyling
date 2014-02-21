@@ -66,7 +66,7 @@ If you want to use the ***customMade.css*** file instead follow the same steps a
 
 You want to add the file directly below the ***style.css*** reference in the ***index.html*** file
 
-![where to place file in html](https://dl.dropboxusercontent.com/u/65537348/CodeSnippet.png)
+![Code Snippet](https://dl.dropboxusercontent.com/u/65537348/CodeSnippet.png)
 
 ####custom.css
 
